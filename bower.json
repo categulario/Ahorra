@@ -4,6 +4,7 @@
 	"dependencies": {
 		"jquery": "1.10.2",
 		"knockout": "3.0.0",
-		"less": "1.6.1"
+		"less": "1.6.1",
+		"buildingblocks": "0.1.0"
 	}
 }
